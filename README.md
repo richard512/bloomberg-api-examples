@@ -9,3 +9,13 @@ df = BDP("AAPL US EQUITY", "PX_LAST")
 
 ### Bloomberg Data Set Request (BDS)
 df = BDS("AAPL US EQUITY", "DVD_HIST_ALL")
+
+## Excel VBA
+
+BCOM_wrapper is a wrapper of Bloomberg COM API
+
+BCOM_test demonstrates example usages of BCOM_wrapper
+
+tester_referenceData, tester_bulkReferenceData, and printReferenceData are like BDP
+
+tester_historicalData and printHistoricalData are like BDH
