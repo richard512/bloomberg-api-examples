@@ -1,4 +1,4 @@
-### Bloomberg API in Excel VBA via Bloomberg COM Library
+### Bloomberg API in Excel VBA
 
 Description: Enables used of Bloomberg API via VBA
 
