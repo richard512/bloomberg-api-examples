@@ -1,4 +1,4 @@
-# bloomberg
+# Bloomberg API Examples
 
 ## Python Script
 ### Bloomberg Historical Data Request (BDH)
