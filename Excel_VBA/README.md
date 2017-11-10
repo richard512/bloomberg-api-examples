@@ -1,6 +1,6 @@
 ### Bloomberg API in Excel VBA
 
-Description: Enables used of Bloomberg API via VBA
+Description: Enables use of Bloomberg API via VBA
 
 Requirement: Bloomberg Terminal
 
