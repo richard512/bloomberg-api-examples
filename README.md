@@ -16,6 +16,8 @@ BCOM_wrapper is a wrapper of Bloomberg COM API
 
 BCOM_test demonstrates example usages of BCOM_wrapper
 
-tester_referenceData, tester_bulkReferenceData, and printReferenceData are like BDP
+tester_referenceData is like BDP
 
-tester_historicalData and printHistoricalData are like BDH
+tester_bulkReferenceData is like BDS
+
+tester_historicalData is like BDH
